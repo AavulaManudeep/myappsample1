@@ -1,2 +1,2 @@
-#myapp
-This is a Testing repository as beginner
+#MyApp
+This is a Testing repository as begginner
